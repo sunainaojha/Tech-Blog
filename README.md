@@ -78,4 +78,4 @@ A platform that empowers tech writers and bloggers to publish articles, blog pos
 ## Links 
 [Github](https://github.com/sunainaojha/tech-blog)
 
-[Demonstration Video]()
+[Heroku Deployed link ]()
