@@ -65,3 +65,17 @@ A platform that empowers tech writers and bloggers to publish articles, blog pos
 
 - If you are idle on the site for an extended period, you can still view posts and comments, but you'll need to log in again before adding, updating, or deleting posts.
 
+## Technologies Used
+
+- Node.js
+- Express.js
+- MySql
+- JavaScript
+- CSS
+- HandleBars
+
+
+## Links 
+[Github](https://github.com/sunainaojha/tech-blog)
+
+[Demonstration Video]()
