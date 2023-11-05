@@ -73,7 +73,7 @@ router.get('/post/:id', (req, res) => {
         .then(dbPostData => {
             if (!dbPostData) {
                 res.status(404).json({
-                    message: 'No post found with this id'
+                    message: 'post not found with this id'
                 });
                 return;
             }
@@ -113,7 +113,7 @@ router.get('/signup', (req, res) => {
 
 
 router.get('*', (req, res) => {
-    res.status(404).send("Can't go there!");
+    res.status(404).send("Can't process");
     // res.redirect('/');
 })
 
