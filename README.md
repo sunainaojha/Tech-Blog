@@ -79,3 +79,9 @@ A platform that empowers tech writers and bloggers to publish articles, blog pos
 [Github](https://github.com/sunainaojha/tech-blog)
 
 [Heroku Deployed link ](https://shielded-savannah-78841-81f224f6232c.herokuapp.com)
+
+## Screenshots
+![project.pic.1](./public/images/project.pic.1.png)
+![project.pic.2](./public/images/project.pic.2.png)
+![project.pic.2](./public/images/project.pic.3.png)
+![project.pic.4](./public/images/project.pic.4.png)
